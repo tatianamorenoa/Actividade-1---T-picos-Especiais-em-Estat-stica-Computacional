@@ -1,2 +1,2 @@
-# Actividade-1---T-picos-Especiais-em-Estat-stica-Computacional
+# Actividade-1---Tópicos-Especiais-em-Estatística-Computacional
 Web Scraping e Análise Exploratória de Dados
